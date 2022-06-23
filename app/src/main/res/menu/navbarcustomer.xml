@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:orderInCategory="1"
+        android:title="Profile" />
+    <item
+        android:id="@+id/Brosur"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:orderInCategory="2"
+        android:title="Brosur" />
+    <item
+        android:id="@+id/Promo"
+        android:icon="@drawable/ic_baseline_percent_24"
+        android:orderInCategory="3"
+        android:title="Promo" />
+</menu>
